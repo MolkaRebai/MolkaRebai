@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Molka! 👋 
 
-<!--
-**MolkaRebai/MolkaRebai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Enthusiast | 🤖 AI & Machine Learning 
 
-Here are some ideas to get you started:
+I am a passionate developer focused on the intersection of **Artificial Intelligence** and **CyberSecurity**. My mission is to build intelligent tools that make the digital world a safer place. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ My Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, C++, SQL |
+| **Cybersecurity** | Network Security, Phishing Analysis, Penetration Testing |
+| **AI/ML** | Scikit-learn, Pandas, TensorFlow, Data Visualization |
+| **Tools** | Git, Docker, Linux (Kali/Ubuntu), VS Code |
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn][(https://www.linkedin.com/in/molka-rebai/)]
