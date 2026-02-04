@@ -17,4 +17,4 @@ I am a passionate developer focused on the intersection of **Artificial Intellig
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn][(https://www.linkedin.com/in/molka-rebai/)]
+- 💼 [LinkedIn](https://www.linkedin.com/in/molka-rebai/)
